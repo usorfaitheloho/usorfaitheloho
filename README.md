@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 ,I'm Faith Usor
 
+I am a full stack dev looking to solve real world problems
 <!--
 **usorfaitheloho/usorfaitheloho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
