@@ -17,7 +17,10 @@ I am a full time student at Microverse, learning Full Stack Web Development.I li
 <h2> Let's connect 👨‍💻 and forge the future together.😁✌   </h2> 
 
 </br>
+<h3 align="center">GitHub Statistics:</h3>
 
+| <a href="https://github.com/usorfaitheloho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=usorfaitheloho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="faith's github stats" /></a> | <a href="https://github.com/usorfaitheloho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usorfaitheloho&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 **Check the Repositories and don't forget to give a star.** 👇
 
