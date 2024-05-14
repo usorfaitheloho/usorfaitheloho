@@ -10,7 +10,7 @@
   
 :heart: Programming | :black_heart: cooking | :blue_heart: meeting people
  
-I am a full time student at Microverse, learning Full Stack Web Development.I like collaborating with developers all over the world to solve problems
+I am a fullstack developer at Microverse. I like collaborating with developers all over the world to solve problems
 
 <br/>
 
